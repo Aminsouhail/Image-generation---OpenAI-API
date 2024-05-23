@@ -13,29 +13,56 @@ To set up this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone  https://github.com/Aminsouhail/Image-generation---OpenAI-API.git
+   git clone https://github.com/Aminsouhail/Image-generation---OpenAI-API.git
    cd Image-generation---OpenAI-API
-Open index.html in your browser:
+   ```
 
-Open the index.html file in your favorite web browser to view the application.
+2. **Open `index.html` in your browser:**
 
-Add your OpenAI API key:
+   Open the `index.html` file in your favorite web browser to view the application.
 
-Replace the placeholder API key in the script.js file with your actual OpenAI API key.
+3. **Add your OpenAI API key:**
 
-##javascript
+   Replace the placeholder API key in the `script.js` file with your actual OpenAI API key.
 
+   ```javascript
+   const api = "your-openai-api-key-here";
+   ```
+
+## Usage
+
+1. **Open the application:**
+
+   Open `index.html` in your web browser.
+
+2. **Enter a prompt:**
+
+   Type a prompt into the input field.
+
+3. **Generate images:**
+
+   Click the button to generate images. The images will be displayed on the page.
+
+## JavaScript
+
+Ensure your `script.js` file includes the correct logic:
+
+```javascript
 const api = "your-openai-api-key-here";
-##Usage
-Open the application:
 
-Open index.html in your web browser.
+```
 
-Enter a prompt:
+## Contributing
 
-Type a prompt into the input field.
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-Generate images:
+## License
 
-Click the button to generate images. The images will be displayed on the page.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Additional Notes
+
+- Ensure you have an OpenAI API key. You can obtain one from the OpenAI website.
+- Keep your API key secure and do not expose it in public repositories.
+
 
