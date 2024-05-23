@@ -13,8 +13,8 @@ To set up this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/image-generator.git
-   cd image-generator
+   git clone  https://github.com/Aminsouhail/Image-generation---OpenAI-API.git
+   cd Image-generation---OpenAI-API
 Open index.html in your browser:
 
 Open the index.html file in your favorite web browser to view the application.
