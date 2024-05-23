@@ -23,10 +23,10 @@ Add your OpenAI API key:
 
 Replace the placeholder API key in the script.js file with your actual OpenAI API key.
 
-javascript
+##javascript
 
 const api = "your-openai-api-key-here";
-Usage
+##Usage
 Open the application:
 
 Open index.html in your web browser.
